@@ -10,4 +10,6 @@ def run(url):
 
 
 if __name__ == '__main__':
-    run("https://item.jd.com/100064843490.html")
+    # run("https://item.jd.com/100064843490.html")
+    run("https://bot.sannysoft.com/")
+
